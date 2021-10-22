@@ -1,5 +1,3 @@
-<img align='right' src='https://z3.ax1x.com/2021/10/22/56baHf.png'>
-
 <h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
 
@@ -10,3 +8,4 @@
 - 🎮 Favorate Game **Genshin Impact**.
 
 ![](https://genshin-card.himiku.com/rand/191844625.png)
+[![56baHf.png](https://z3.ax1x.com/2021/10/22/56baHf.png)](https://imgtu.com/i/56baHf)
