@@ -1,4 +1,4 @@
-<img align='right' src='https://z3.ax1x.com/2021/10/22/56baHf.png' width='200px'>
+<img align='right' src='https://z3.ax1x.com/2021/10/22/56baHf.png'>
 
 <h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
