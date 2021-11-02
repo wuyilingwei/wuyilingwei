@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
 
+My E-mail:yigeyigeren@foxmail.com
+Or click <a href="yigeyigeren@foxmail.com">here</a>
+
 - #My Github#
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yige-yigeren&show_icons=true&hide_border=true&theme=chartreuse-dark")]()
