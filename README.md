@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
 
-My E-mail:yigeyigeren@foxmail.com
-Or click <a href="yigeyigeren@foxmail.com">here</a>
+My E-mail Address:yigeyigeren@foxmail.com
 
 - #My Github#
 
