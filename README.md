@@ -7,9 +7,11 @@
 
 - #My Github#
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yige-yigeren&show_icons=true&hide_border=true&theme=chartreuse-dark")]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yige-yigeren)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yige-yigeren&layout=compact)](https://github.com/yige-yigeren/github-readme-stats)
 
 
 - 🎮 Favorate Game **Arknights**.
 
-[![56baHf.png](https://z3.ax1x.com/2021/10/22/56baHf.png)](https://imgtu.com/i/56baHf)
+![arknights_Beyond_Here.png](https://image.mew.fun/tos-cn-i-c226mjqywu/9fc1e5af7f984e1a92b13426b8b606bc)
