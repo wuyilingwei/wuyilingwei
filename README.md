@@ -16,3 +16,11 @@
 - 🎮 Favorate Game **Arknights**.
 
 ![arknights_Beyond_Here.png](https://image.mew.fun/tos-cn-i-c226mjqywu/9fc1e5af7f984e1a92b13426b8b606bc)
+
+故事会结束，但生活不会。
+
+我想不出怎样可以尽善尽美，我只能动手去做。
+
+Stories end someday, but life doesn't.
+
+I couldn't figure out how to make it perfect, I will only try to do my best.
