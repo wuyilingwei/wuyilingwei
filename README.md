@@ -21,6 +21,10 @@
 
 我想不出怎样可以尽善尽美，我只能动手去做。
 
+要去思考，去想，然后行动。
+
 Stories end someday, but life doesn't.
 
 I couldn't figure out how to make it perfect, I will only try to do my best.
+
+Think, ponder, and then take action.
