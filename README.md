@@ -33,7 +33,7 @@
   
 - Favorite: **Arknights** (ID:武乙凌薇; CN_Server)
 
-### IDs of some mainstream platforms:###
+### IDs of some mainstream platforms: ###
 - Steam:1108009450
 - Ubisoft:WuYilingwei_CN
 
