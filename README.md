@@ -21,7 +21,7 @@
 - An international student in Canada who is preparing to apply to a Canadian university
 
 ## 🕰 I _was_
-- AnEot, as a core maintainer for Content updates and upgrades.
+- [AnEot](https://github.com/TCA-Arknights/aneot), a fanmade literary journal based on mobile game Arknights, as a core maintainer for Content updates and upgrades.
 
 ## 🌱 I’m currently learning
 - HTML + Javascrpt + CSS I still have a lot of basic knowledge to add.
