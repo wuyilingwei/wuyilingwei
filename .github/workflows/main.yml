@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: yige-yigeren/metrics@latest
+      - uses: yige-yigeren/yige-yigeren@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
