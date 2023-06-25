@@ -13,8 +13,14 @@
 
 ## #My Github#
 
+![Metrics](https://github.com/yige-yigeren/yige-yigeren/blob/master/github-metrics.svg)
+<!-- 
+![](https://github.com/owlighter/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/owlighter/github-stats/blob/master/generated/languages.svg)
+ -->
+ <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yige-yigeren)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yige-yigeren&layout=compact)](https://github.com/yige-yigeren/github-readme-stats)
 
 ## 🔭 I’m currently working on
