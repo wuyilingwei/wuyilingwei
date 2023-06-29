@@ -47,9 +47,11 @@
 ### Some Independent Games: ###
 - Genshin Inpact (UID:116618767;lv.59)
 
-## Some Views
+## 💡 Views
 
 I support this LICENSE and actively apply it to my project[反 996 许可证](https://github.com/kattgu7/Anti-996-License/blob/master/LICENSE_CN_EN) (An open License add-on license that only authorizes use of the code by non-labor oppressive companies), We need a future that doesn't squeeze workers.
+
+Does not support war - no matter which side.
 
 ## End
 
