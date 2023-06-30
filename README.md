@@ -49,7 +49,7 @@
 
 ## 💡 Views
 
-I support this LICENSE and actively apply it to my project [反 996 许可证](https://github.com/kattgu7/Anti-996-License/blob/master/LICENSE_CN_EN) (An open License add-on license that only authorizes use of the code by non-labor oppressive companies), We need a future that doesn't squeeze workers.
+I support this [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) and actively apply it to my project (An open License add-on license that only authorizes use of the code by non-labor oppressive companies), We need a future that doesn't squeeze workers.
 
 Does not support war - no matter which side.
 
