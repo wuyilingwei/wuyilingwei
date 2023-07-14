@@ -5,35 +5,26 @@
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
 <h3 align="center">Currently studying in Toronto, Canada</h3>
 
-## Want to contact me?
+## ✉️Want to contact me?
 
 - My E-mail Address : yigeyigeren@outlook.com
 
 - Or open a new github issue [Here](https://github.com/yige-yigeren/yige-yigeren/issues)
 
-## #My Github#
+## 💻My Github
 
 ![Metrics](https://github.com/yige-yigeren/yige-yigeren/blob/main/github-metrics.svg)
-
-<!-- 
-![](https://github.com/owlighter/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/owlighter/github-stats/blob/master/generated/languages.svg)
- -->
- <!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yige-yigeren)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yige-yigeren&layout=compact)](https://github.com/yige-yigeren/github-readme-stats)
- -->
  
-## 🔭 I’m currently working on
-- An international student in Canada who is preparing to apply to a Canadian university
+## 🔭 Currently
+- I'm an international Grade 12 student in Canada, preparing to apply to Canadian universities
 
-## 🕰 I _was_
-- TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fanmade literary journal based on mobile game Arknights, as a core maintainer for Content updates and upgrades.
+## 🕰 Previously
+- I was a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
 
-## 🌱 I’m currently learning
-- HTML + Javascrpt + CSS I still have a lot of basic knowledge to add.
-- Java Current courses + some projects I have participated in
-- IELTS Necessities for the college entrance examination @.@
+## 🌱 Currently Learning
+- HTML, JavaScript, and CSS. There's still a lot of fundamental knowledge to grasp.
+- Java for current courses and some projects I'm participating in
+- IELTS, as it's crucial for university entrance examinations.
 
 ## 🎮 Games
 - My Game ID for most game: 武乙凌薇; WuYilingwei; WuYilingwei_CN
@@ -45,15 +36,16 @@
 - Ubisoft:WuYilingwei_CN
 
 ### Some Independent Games: ###
-- Genshin Inpact (UID:116618767;lv.59)
+- Genshin Inpact (UID:116618767;lv.60)
+- StarRail （UID：101675239；lv.54+）
 
 ## 💡 Views
 
-I support this [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) and actively apply it to my project (An open License add-on license that only authorizes use of the code by non-labor oppressive companies), We need a future that doesn't squeeze workers. (I applied a modified version for my needs, adding tighter restrictions)
+I support [Anti 996](https://github.com/996icu/996.ICU/blob/master/LICENSE) license and actively apply it to my projects. It's an open license add-on that only authorizes use of the code by non-exploitative companies. We need a future that doesn't exploit workers. (I've applied a modified version, tailored to my needs, with stricter restrictions, which I refer to as the 'Anti-Labor Exploitation License')
 
-Does not support war - no matter which side.
+I oppose war - regardless of the side. (Please refrain from discussing political affiliations with me)
 
-## End
+## 💭End
 
 故事会结束，但生活不会。
 
@@ -61,8 +53,8 @@ Does not support war - no matter which side.
 
 要去思考，去想，然后行动。
 
-Stories end someday, but life doesn't.
+Stories will end oneday, but life doesn't.
 
 I couldn't figure out how to make it perfect, I will only try to do my best.
 
-Think, ponder, and then take action.
+Contemplation, search for solutions, and proceed with action.
