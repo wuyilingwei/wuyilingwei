@@ -37,7 +37,7 @@
 
 ### Some Independent Games: ###
 - Genshin Inpact (UID:116618767;lv.60)
-- StarRail （UID：101675239；lv.54+）
+- StarRail （UID:101675239；lv.65+）
 
 ## 💡 Views
 
