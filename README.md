@@ -45,6 +45,8 @@ I support [Anti 996](https://github.com/996icu/996.ICU/blob/master/LICENSE) lice
 
 I oppose war - regardless of the side. (Please refrain from discussing political affiliations with me)
 
+I don't want to talk about political, racial, and gender (etc. unrelated code) content on github unless it's talked about by me in a project or issue, so if you try to talk about it with me, you might just get blacklisted.
+
 ## 💭End
 
 故事会结束，但生活不会。
