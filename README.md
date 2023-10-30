@@ -32,12 +32,13 @@
 - Favorite: **Arknights** (ID:武乙凌薇; CN_Server)
 
 ### IDs of some mainstream platforms: ###
-- [Steam](https://steamcommunity.com/id/WuYilingwei510V/)
+- [Steam](https://steamcommunity.com/id/WuYilingwei510V/) 
 - Ubisoft:WuYilingwei_CN
+- EA：WuYilingwei
 
 ### Some Independent Games: ###
 - Genshin Inpact CN Servers (UID:116618767;lv.60)
-- StarRail Servers（UID:101675239；lv.69+）
+- StarRail Servers（UID:101675239；lv.70）
 
 ## 💡 Views
 
