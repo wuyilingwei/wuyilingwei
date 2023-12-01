@@ -17,9 +17,10 @@
  
 ## 🔭 Currently
 - I'm an international Grade 12 student in Canada, preparing to apply to Canadian universities
+- I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
 
 ## 🕰 Previously
-- I was a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
+- MEW website testing and user script creator.
 
 ## 🌱 Currently Learning
 - HTML, JavaScript, and CSS. There's still a lot of fundamental knowledge to grasp.
