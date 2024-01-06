@@ -11,7 +11,7 @@
 
 - Or open a new github issue [Here](https://github.com/yige-yigeren/yige-yigeren/issues)
 
-- My [Blog](www.wuyilingwei.com)
+- My [Blog](https://www.wuyilingwei.com)
 
 ## 💻My Github
 
