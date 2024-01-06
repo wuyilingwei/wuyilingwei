@@ -11,6 +11,8 @@
 
 - Or open a new github issue [Here](https://github.com/yige-yigeren/yige-yigeren/issues)
 
+- My [Blog](www.wuyilingwei.com)
+
 ## 💻My Github
 
 ![Metrics](https://github.com/yige-yigeren/yige-yigeren/blob/main/github-metrics.svg)
