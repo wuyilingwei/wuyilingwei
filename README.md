@@ -36,8 +36,8 @@
 
 ### IDs of some mainstream platforms: ###
 - [Steam](https://steamcommunity.com/id/WuYilingwei510V/) 
-- Ubisoft:WuYilingwei_CN
-- EA：WuYilingwei
+- Ubisoft:WuYilingwei_CN (play R6S, R6E)
+- EA：WuYilingwei (2042)
 
 ### Some Independent Games: ###
 - Genshin Inpact CN Servers (UID:116618767;lv.60)
@@ -51,7 +51,7 @@ I oppose war - regardless of the side. (Please refrain from discussing political
 
 I don't want to talk about political, racial, and gender (etc. unrelated code) content on github unless it's talked about by me in a project or issue, so if you try to talk about it with me, you might just get blacklisted.
 
-## 💭End
+## 💭 End
 
 故事会结束，但生活不会。
 
@@ -64,3 +64,5 @@ Stories will end oneday, but life doesn't.
 I couldn't figure out how to make it perfect, I will only try to do my best.
 
 Contemplation, search for solutions, and proceed with action.
+
+菜就多练 Practice if you're cai.
