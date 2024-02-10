@@ -19,17 +19,17 @@
 
 ## 📦 Projects
 
-![RDPWrap AutoUpdate CN](https://github.com/yige-yigeren/rdpwrap_AutoUpdate_CN)
+[RDPWrap AutoUpdate CN](https://github.com/yige-yigeren/rdpwrap_AutoUpdate_CN)
 
-![Yigeren User Script](https://github.com/yige-yigeren/YigerenUserScript)
+[Yigeren User Script](https://github.com/yige-yigeren/YigerenUserScript)
 
-![MagiskOnWSA Online Build](https://github.com/yige-yigeren/MagiskOnWSAOnlineBuild)
+[MagiskOnWSA Online Build](https://github.com/yige-yigeren/MagiskOnWSAOnlineBuild)
 
-![PRTS cursor](https://github.com/yige-yigeren/PRTS_cursor)
+[PRTS cursor](https://github.com/yige-yigeren/PRTS_cursor)
 
-![Audio Video Merger](https://github.com/yige-yigeren/Audio-Video-Merger)
+[Audio Video Merger](https://github.com/yige-yigeren/Audio-Video-Merger)
 
-![LiteLoaderQQNT HighlightReplies Plugin](https://github.com/yige-yigeren/LiteLoaderQQNT-HighlightReplies)
+[LiteLoaderQQNT HighlightReplies Plugin](https://github.com/yige-yigeren/LiteLoaderQQNT-HighlightReplies)
 
 ## 🔭 Currently
 - I'm an international Grade 12 student in Canada, preparing to apply to Canadian universities
