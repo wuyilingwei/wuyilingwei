@@ -5,7 +5,7 @@
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
 <h3 align="center">Currently studying in Toronto, Canada</h3>
 
-## ✉️Want to contact me?
+## ✉️ Want to contact me?
 
 - My E-mail Address : yigeyigeren@outlook.com
 
@@ -13,10 +13,24 @@
 
 - My [Blog](https://www.wuyilingwei.com)
 
-## 💻My Github
+## 💻 My Github
 
 ![Metrics](https://github.com/yige-yigeren/yige-yigeren/blob/main/github-metrics.svg)
- 
+
+## 📦 Projects
+
+![RDPWrap AutoUpdate CN](https://github.com/yige-yigeren/rdpwrap_AutoUpdate_CN)
+
+![Yigeren User Script](https://github.com/yige-yigeren/YigerenUserScript)
+
+![MagiskOnWSA Online Build](https://github.com/yige-yigeren/MagiskOnWSAOnlineBuild)
+
+![PRTS cursor](https://github.com/yige-yigeren/PRTS_cursor)
+
+![Audio Video Merger](https://github.com/yige-yigeren/Audio-Video-Merger)
+
+![LiteLoaderQQNT HighlightReplies Plugin](https://github.com/yige-yigeren/LiteLoaderQQNT-HighlightReplies)
+
 ## 🔭 Currently
 - I'm an international Grade 12 student in Canada, preparing to apply to Canadian universities
 - I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
