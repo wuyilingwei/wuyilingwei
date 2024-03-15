@@ -7,11 +7,11 @@
 
 ## ✉️ Want to contact me?
 
-- My E-mail Address : yigeyigeren@outlook.com
+- My E-mail Address: yigeyigeren@outlook.com
 
 - Or open a new github issue [Here](https://github.com/yige-yigeren/yige-yigeren/issues)
 
-- My [Blog](https://www.wuyilingwei.com)
+- My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
 
 ## 💻 My Github
 
