@@ -11,7 +11,7 @@
 
 - Or open a new github issue [Here](https://github.com/yige-yigeren/yige-yigeren/issues)
 
-- My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
+- My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <-Welcome to see it (mandarin only/简体中文)
 
 ## 💻 My Github
 
@@ -40,8 +40,7 @@
 
 ## 🌱 Currently Learning
 - HTML, JavaScript, and CSS. There's still a lot of fundamental knowledge to grasp.
-- Java for current courses and some projects I'm participating in
-- IELTS, as it's crucial for university entrance examinations.
+- Python for current courses and some projects I'm participating in
 
 ## 🎮 Games
 - My Game ID for most game: 武乙凌薇; WuYilingwei; WuYilingwei_CN
@@ -58,6 +57,8 @@
 - StarRail Servers（UID:101675239；lv.70）
 
 ## 💡 Views
+
+I'm **happy to welcome anyone who can point out errors, provide suggestions, or participate in any of my projects**, but failure to follow the Wisdom of Asking or using offensive language will result in me banning you for no reason.
 
 I support [Anti 996](https://github.com/996icu/996.ICU/blob/master/LICENSE) license and actively apply it to my projects. It's an open license add-on that only authorizes use of the code by non-exploitative companies. We need a future that doesn't exploit workers. (I've applied a modified version, tailored to my needs, with stricter restrictions, which I refer to as the 'Anti-Labor Exploitation License')
 
