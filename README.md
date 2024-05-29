@@ -1,6 +1,6 @@
 > [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is fundamental to who we are - a creature named human, a society named humanity.
 > 
-> [The Programmer s Oath](https://github.com/yige-yigeren/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
+> [The Programmer s Oath](https://github.com/wuyilingwei/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
 <h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
 <h3 align="center">Currently studying in Toronto, Canada</h3>
@@ -9,27 +9,27 @@
 
 - My E-mail Address: yigeyigeren@outlook.com
 
-- Or open a new github issue [Here](https://github.com/yige-yigeren/yige-yigeren/issues)
+- Or open a new github issue [Here](https://github.com/wuyilingwei/wuyilingwei/issues)
 
 - My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <-Welcome to see it (mandarin only/简体中文)
 
 ## 💻 My Github
 
-![Metrics](https://github.com/yige-yigeren/yige-yigeren/blob/main/github-metrics.svg)
+![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
 
 ## 📦 Projects
 
-[RDPWrap AutoUpdate CN](https://github.com/yige-yigeren/rdpwrap_AutoUpdate_CN)
+[RDPWrap AutoUpdate CN](https://github.com/wuyilingwei/rdpwrap_AutoUpdate_CN)
 
-[Yigeren User Script](https://github.com/yige-yigeren/YigerenUserScript)
+[Yigeren User Script](https://github.com/wuyilingwei/YigerenUserScript)
 
-[MagiskOnWSA Online Build (Coming Archived)](https://github.com/yige-yigeren/MagiskOnWSAOnlineBuild)
+[MagiskOnWSA Online Build (Coming Archived)](https://github.com/wuyilingwei/MagiskOnWSAOnlineBuild)
 
-[PRTS cursor (Finished)](https://github.com/yige-yigeren/PRTS_cursor)
+[PRTS cursor (Finished)](https://github.com/wuyilingwei/PRTS_cursor)
 
-[Audio Video Merger](https://github.com/yige-yigeren/Audio-Video-Merger)
+[Audio Video Merger](https://github.com/wuyilingwei/Audio-Video-Merger)
 
-[LiteLoaderQQNT HighlightReplies Plugin (Archived)](https://github.com/yige-yigeren/LiteLoaderQQNT-HighlightReplies)
+[LiteLoaderQQNT HighlightReplies Plugin (Archived)](https://github.com/wuyilingwei/LiteLoaderQQNT-HighlightReplies)
 
 ## 🔭 Currently
 - I'm an international Grade 12 student in Canada, preparing to apply to Canadian universities
