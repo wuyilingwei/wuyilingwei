@@ -7,9 +7,9 @@
 
 ## ✉️ Want to contact me?
 
-- My E-mail Address: yigeyigeren@outlook.com
+- My E-mail Address: [admin@wuyilingwei.com](mailto:admin@wuyilingwei.com)
 
-- Or open a new github issue [Here](https://github.com/wuyilingwei/wuyilingwei/issues)
+- My Telegram: [@WuYilingwei](https://t.me/WuYilingwei)
 
 - My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <-Welcome to see it (mandarin only/简体中文)
 
