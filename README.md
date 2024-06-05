@@ -19,20 +19,6 @@
 
 ![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
 
-## 📦 Projects
-
-[RDPWrap AutoUpdate CN](https://github.com/wuyilingwei/rdpwrap_AutoUpdate_CN)
-
-[Yigeren User Script](https://github.com/wuyilingwei/YigerenUserScript)
-
-[MagiskOnWSA Online Build (Coming Archived)](https://github.com/wuyilingwei/MagiskOnWSAOnlineBuild)
-
-[PRTS cursor (Finished)](https://github.com/wuyilingwei/PRTS_cursor)
-
-[Audio Video Merger](https://github.com/wuyilingwei/Audio-Video-Merger)
-
-[LiteLoaderQQNT HighlightReplies Plugin (Archived)](https://github.com/wuyilingwei/LiteLoaderQQNT-HighlightReplies)
-
 ## 🔭 Currently
 - I'm an international Grade 12 student in Canada, Coming soon [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science) computer science student.
 - I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
@@ -53,10 +39,6 @@
 - [Steam](https://steamcommunity.com/id/WuYilingwei510V/) 
 - Ubisoft:WuYilingwei_CN (play R6S, R6E)
 - EA：WuYilingwei (2042)
-
-### Some Independent Games: ###
-- Genshin Inpact CN Servers (UID:116618767;lv.60)
-- StarRail Servers（UID:101675239；lv.70）
 
 ## 💡 Views
 
