@@ -2,8 +2,8 @@
 > 
 > [The Programmer s Oath](https://github.com/wuyilingwei/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
 <h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
-<h3 align="center">A student from Sichuan,Chengdu,China</h3>
-<h3 align="center">Currently studying in Toronto, Canada</h3>
+<h3 align="center">A student from Sichuan, Chengdu, China</h3>
+<h3 align="center">Currently studying in Mississauga, Toronto, Canada</h3>
 
 ## ✉️ Want to contact me?
 
