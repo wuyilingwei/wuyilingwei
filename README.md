@@ -1,7 +1,7 @@
 > [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is fundamental to who we are - a creature named human, a society named humanity.
 > 
 > [The Programmer s Oath](https://github.com/wuyilingwei/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
-<h1 align="center">Hi 👋, I'm Yige-yigeren</h1>
+<h1 align="center">Hi 👋, I'm WUyilingwei</h1>
 <h3 align="center">A student from Sichuan, Chengdu, China</h3>
 <h3 align="center">Currently studying in Mississauga, Toronto, Canada</h3>
 
@@ -20,7 +20,7 @@
 ![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
 
 ## 🔭 Currently
-- I'm an international Grade 12 student in Canada, Coming soon [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science) computer science student.
+- I'm an international student in Canada, in [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science) as a computer science student.
 - I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
 
 ## 🕰 Previously
