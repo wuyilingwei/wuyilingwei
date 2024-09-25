@@ -1,7 +1,7 @@
 > [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is fundamental to who we are - a creature named human, a society named humanity.
 > 
 > [The Programmer s Oath](https://github.com/wuyilingwei/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
-<h1 align="center">Hi 👋, I'm WUyilingwei</h1>
+<h1 align="center">Hi 👋, I'm WuYilingwei</h1>
 <h3 align="center">A student from Sichuan, Chengdu, China</h3>
 <h3 align="center">Currently studying in Mississauga, Toronto, Canada</h3>
 
