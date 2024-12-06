@@ -30,16 +30,6 @@
 - HTML, JavaScript, and CSS. There's still a lot of fundamental knowledge to grasp.
 - Python for current courses and some projects I'm participating in
 
-## 🎮 Games
-- My Game ID for most game: 武乙凌薇; WuYilingwei; WuYilingwei_CN
-  
-- Favorite: **Arknights** (ID:武乙凌薇; CN_Server)
-
-### IDs of some mainstream platforms: ###
-- [Steam](https://steamcommunity.com/id/WuYilingwei510V/) 
-- Ubisoft:WuYilingwei_CN (play R6S, R6E)
-- EA：WuYilingwei (2042)
-
 ## 💡 Views
 
 I'm **happy to welcome anyone who can point out errors, provide suggestions, or participate in any of my projects**, but failure to follow the Wisdom of Asking or using offensive language will result in me banning you for no reason.
