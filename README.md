@@ -7,7 +7,7 @@
 
 ## ✉️ Want to contact me?
 
-- My E-mail Address: [admin@wuyilingwei.com](mailto:admin@wuyilingwei.com) / [sy.lei@mail.utoronto.ca](mailto:sy.lei@mail.utoronto.ca) <- Suggest
+- My E-mail Address: [admin@wuyilingwei.com](mailto:admin@wuyilingwei.com) / [sy.lei@mail.utoronto.ca](mailto:sy.lei@mail.utoronto.ca) / wuyilingwei510v@outlook.com <- Suggest
 
 - My Telegram: [@WuYilingwei](https://t.me/WuYilingwei)
 
