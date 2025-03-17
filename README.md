@@ -24,6 +24,11 @@
 - I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🕰 Previously
