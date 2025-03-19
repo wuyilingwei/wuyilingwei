@@ -48,7 +48,7 @@ I support [Anti 996](https://github.com/996icu/996.ICU/blob/master/LICENSE) lice
 
 I oppose war - regardless of the side. (Please refrain from discussing political affiliations with me)
 
-I don't want to talk about political, racial, and gender (etc. unrelated code) content on github unless it's talked about by me in a project or issue, so if you try to talk about it with me, you might just get blacklisted.
+I don't want to talk about political, racial, and gender (etc. unrelated code) content on github. - So if you try to talk about these with me, you will get blacklisted.
 
 ## 💭 End
 
@@ -64,4 +64,4 @@ I couldn't figure out how to make it perfect, I will only try to do my best.
 
 Contemplation, search for solutions, and proceed with action.
 
-菜就多练 Practice if you're cai.
+菜就多练 Practice if you are CAI.
