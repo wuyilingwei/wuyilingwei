@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       24 mins         ██████████████▓░░░░░░░░░░   58.05 %
-TOML         13 mins         ████████▒░░░░░░░░░░░░░░░░   32.79 %
-CSV          3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
