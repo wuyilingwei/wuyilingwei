@@ -22,7 +22,7 @@
 ## 🔭 Currently
 - I'm an international student in Canada, in [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science) as a computer science student.
 - I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
-- This month:
+- Last month activities:
 <!--START_SECTION:waka-->
 
 ```txt
