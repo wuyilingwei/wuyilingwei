@@ -46,7 +46,7 @@ Java         2 hrs 18 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 I'm **happy to welcome anyone who can point out errors, provide suggestions, or participate in any of my projects**, but failure to follow the Wisdom of Asking or using offensive language will result in me banning you for no reason.
 
-I support [Anti 996](https://github.com/996icu/996.ICU/blob/master/LICENSE) license and actively apply it to my projects. It's an open license add-on that only authorizes use of the code by non-exploitative companies. We need a future that doesn't exploit workers. (I've applied a modified version, tailored to my needs, with stricter restrictions, which I refer to as the 'Anti-Labor Exploitation License')
+I support the Anti 996 movement and have developed the Anti-Labor Exploitation License (ALE) 1.1. I believe that protection against exploitation is more fundamental than absolute software freedom, for true freedom can only exist where exploitation is absent. ALE Compliance & Reporting: admin@wuyilingwei.com
 
 I oppose war - regardless of the side. (Please refrain from discussing political affiliations with me)
 
@@ -65,5 +65,3 @@ Stories will end oneday, but life doesn't.
 I couldn't figure out how to make it perfect, I will only try to do my best.
 
 Contemplation, search for solutions, and proceed with action.
-
-菜就多练 Practice if you are CAI.
