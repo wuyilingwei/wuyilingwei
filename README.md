@@ -5,6 +5,8 @@
 <h3 align="center">A student from Sichuan, Chengdu, China</h3>
 <h3 align="center">Currently studying in Mississauga, Toronto, Canada</h3>
 
+My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <- mandarin only/简体中文
+
 ## ✉️ Want to contact me?
 
 - My E-mail Address: [admin@wuyilingwei.com](mailto:admin@wuyilingwei.com) / wuyilingwei510v@outlook.com <- Suggest
@@ -12,8 +14,6 @@
 - My Telegram: [@WuYilingwei](https://t.me/WuYilingwei)
 
 - My QQ [2037466993](https://wpa.qq.com/msgrd?v=3&uin=2037466993&site=qq&menu=yes)
-
-- My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <- mandarin only/简体中文
 
 ## 💻 My Github
 
