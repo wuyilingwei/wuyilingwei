@@ -2,10 +2,14 @@
 > 
 > [The Programmer s Oath](https://github.com/wuyilingwei/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
 <h1 align="center">Hi 👋, I'm WuYilingwei</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/MBTI-INTP--A--H-88619A?style=for-the-badge&logo=psychology&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROLE-THE_BUILDER-4682B4?style=for-the-badge&logo=buildkite&logoColor=white" />
+</p>
 <h3 align="center">A student from Sichuan, Chengdu, China</h3>
 <h3 align="center">Currently studying in Mississauga, Toronto, Canada</h3>
 
-My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <- mandarin only/简体中文
+My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
 
 ## ✉️ Want to contact me?
 
@@ -20,8 +24,8 @@ My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com) <- mandarin only/�
 ![Metrics](https://github.com/wuyilingwei/wuyilingwei/blob/main/github-metrics.svg)
 
 ## 🔭 Currently
-- I'm an international student in Canada, in [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science) as a computer science student.
-- I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot), a fan-made literary journal based on the mobile game Arknights, where I was a core maintainer for content updates and upgrades.
+- I'm an international student in Canada, at the [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science).
+- I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot).
 - Last month activities:
 <!--START_SECTION:waka-->
 
