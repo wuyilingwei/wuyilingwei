@@ -26,18 +26,7 @@ My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
 ## 🔭 Currently
 - I'm an international student in Canada, at the [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science).
 - I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot).
-- Last month activities:
-<!--START_SECTION:waka-->
 
-```txt
-Vue          11 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.54 %
-Markdown     10 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.52 %
-SQL          1 min                 ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.68 %
-TypeScript   1 min                 ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.13 %
-Python       1 min                 ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.63 %
-```
-
-<!--END_SECTION:waka-->
 
 ## 🕰 Previously
 - MEW website testing and user script creator.
