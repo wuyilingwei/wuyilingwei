@@ -14,9 +14,7 @@ My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
 ## ✉️ Want to contact me?
 
 - My E-mail Address: [admin@wuyilingwei.com](mailto:admin@wuyilingwei.com) / wuyilingwei510v@outlook.com <- Suggest
-
 - My Telegram: [@WuYilingwei](https://t.me/WuYilingwei)
-
 - My QQ [2037466993](https://wpa.qq.com/msgrd?v=3&uin=2037466993&site=qq&menu=yes)
 
 ## 💻 My Github
@@ -25,15 +23,7 @@ My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
 
 ## 🔭 Currently
 - I'm an international student in Canada, at the [University of Toronto Mississauga](https://www.utm.utoronto.ca/future-students/programs/computer-science).
-- I am a TCA Member - [Another End of Terra 回归线](https://github.com/TCA-Arknights/aneot).
-
-
-## 🕰 Previously
-- MEW website testing and user script creator.
-
-## 🌱 Currently Learning
-- HTML, JavaScript, and CSS. There's still a lot of fundamental knowledge to grasp.
-- Python for current courses and some projects I'm participating in
+- I am a [Terra Creator Association](https://github.com/TCA-Arknights/) Member.
 
 ## 💡 Views
 
