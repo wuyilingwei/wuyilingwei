@@ -13,7 +13,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
+          # plugin_lines temporarily disabled: lowlighter/metrics@latest crashes
+          # with "TypeError: Cannot read properties of null (reading 'login')"
+          # when a commit in the analyzed history has a null author (deleted account).
+          # Re-enable once upstream null-author handling is fixed.
+          plugin_lines: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
