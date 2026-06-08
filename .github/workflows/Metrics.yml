@@ -10,13 +10,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Patched fork: wuyilingwei/metrics@patched makes the lines plugin
-      # null-safe at source/plugins/lines/index.mjs:62 (author?.login),
-      # fixing the null-author crash that broke the upstream action. See agents/001.
-      - uses: wuyilingwei/metrics@patched
+      # Pinned to official v3.34 (uses the prebuilt image, stable & fast).
+      # plugin_lines stays off: it crashes on this repo's null-author commit
+      # (lines/index.mjs:62). A patched fork was attempted but the upstream
+      # Dockerfile no longer rebuilds (nokogiri / sharp-libvips download 504).
+      # See agents/001 for the full investigation.
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
