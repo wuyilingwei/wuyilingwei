@@ -13,7 +13,9 @@ jobs:
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
+          # plugin_lines disabled: crashes on this repo's commit data
+          # (lines/index.mjs:62 null.login -> lines.ejs render crash),
+          # fails regardless of action version. See agents/001.
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
