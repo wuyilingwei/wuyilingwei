@@ -10,14 +10,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Pinned to official v3.34 (uses the prebuilt image, stable & fast).
-      # plugin_lines stays off: it crashes on this repo's null-author commit
-      # (lines/index.mjs:62). A patched fork was attempted but the upstream
-      # Dockerfile no longer rebuilds (nokogiri / sharp-libvips download 504).
-      # See agents/001 for the full investigation.
-      - uses: lowlighter/metrics@v3.34
+      # Patched fork wuyilingwei/metrics@patched (based on v3.34):
+      #  - null-safe lines plugin (source/plugins/lines/index.mjs:62) so the
+      #    null-author commit no longer crashes the render;
+      #  - self-contained vendored libvips + SHARP_IGNORE_GLOBAL_LIBVIPS so the
+      #    Docker image rebuilds reliably (avoids nokogiri / sharp-libvips 504).
+      # Rebuilds the image each run (~5 min). See agents/001 for the investigation.
+      - uses: wuyilingwei/metrics@patched
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
