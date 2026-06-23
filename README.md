@@ -1,7 +1,7 @@
 > [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is fundamental to who we are - a creature named human, a society named humanity.
 > 
 > [The Programmer s Oath](https://github.com/wuyilingwei/The-Programmer-s-Oath/blob/main/README.md) I accept and abide by this oath
-<h1 align="center">Hi 👋, I'm WuYilingwei</h1>
+<h1 align="center">Hi 👋, I'm Lei</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/MBTI-INTP--A--H-88619A?style=for-the-badge&logo=psychology&logoColor=white" />
   <img src="https://img.shields.io/badge/ROLE-THE_BUILDER-4682B4?style=for-the-badge&logo=buildkite&logoColor=white" />
