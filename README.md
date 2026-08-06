@@ -27,21 +27,11 @@ My Blog: [blog.wuyilingwei.com](https://blog.wuyilingwei.com)
 
 ## 💡 Views
 
-I'm **happy to welcome anyone who can point out errors, provide suggestions, or participate in any of my projects**, but failure to follow the Wisdom of Asking or using offensive language will result in me banning you for no reason.
-
-I support the Anti 996 movement and have developed the Anti-Labor Exploitation License (ALE) 1.1. I believe that protection against exploitation is more fundamental than absolute software freedom, for true freedom can only exist where exploitation is absent. ALE Compliance & Reporting: admin@wuyilingwei.com
-
-I oppose war - regardless of the side. (Please refrain from discussing political affiliations with me)
+I'm **happy to welcome anyone who can point out errors, provide suggestions, or participate in any of my projects**, but failure to follow the Wisdom of Asking or using offensive language will result blacklist.
 
 I don't want to talk about political, racial, and gender (etc. unrelated code) content on github. - So if you try to talk about these with me, you will get blacklisted.
 
 ## 💭 End
-
-故事会结束，但生活不会。
-
-我想不出怎样可以尽善尽美，我只能动手去做。
-
-要去思考，去想，然后行动。
 
 Stories will end oneday, but life doesn't.
 
